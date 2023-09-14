@@ -1,0 +1,43 @@
+.titleGeneral {
+    color: white;
+    text-align: center;
+    font-size: 305%;
+    text-shadow: 3px 3px 5px white;
+}
+
+.titleTarget {
+    text-shadow: 1.7px 1.7px 3px white;
+}
+
+.target {
+    display: flex;
+    flex-direction: row;
+    /* border: solid 2px gray; */
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px white;
+    margin-left: 22%;
+    margin-top: 2%;
+    width: 55%;
+    height: 65vh;
+}
+
+.left {
+    color: white;
+    width: 47%;
+}
+
+.right {
+    width: 35%;
+}
+
+.imgApptastico {
+    border: solid 1px gray;
+    box-shadow: 0px 0px 5px white;
+    border-radius: 12px;
+    margin-left: 15%;
+}
+
+.link {
+    margin-right: 12%;
+    color: rgb(120, 179, 120);
+}

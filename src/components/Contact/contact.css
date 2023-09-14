@@ -1,0 +1,40 @@
+.form {
+    text-align: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-top: 4%;
+    padding: 25px;
+    width: 50%;
+    border: 2px solid rgb(73, 73, 80);
+    box-shadow: 0px 0px 7px white;
+}
+
+input {
+    width: 70%;
+    height: 40px;
+    background-color: rgb(232,240,254);;
+    border: 2px solid rgb(73, 73, 80);
+    text-align: center;
+}
+
+textarea {
+    width: 70%;
+    background-color: transparent;
+    border: 2px solid rgb(73, 73, 80);
+    background-color: rgb(232,240,254);
+    text-align: center;
+}
+
+.button {
+    margin-top: 5%;
+    width: 35%;
+    color: rgb(220, 220, 222);
+    box-shadow: 0px 0px 3px white;
+}
+
+.button:hover {
+    width: 40%;
+    background-color: rgb(232,240,254);
+    color: black;
+    border-color: black;
+}
